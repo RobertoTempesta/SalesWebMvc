@@ -47,7 +47,7 @@ Contribuições são bem-vindas! Se você deseja melhorar este projeto, sinta-se
 
 ## Autor
 
-Este projeto foi desenvolvido por [Seu Nome](https://github.com/seu-usuario).
+Este projeto foi desenvolvido por [Roberto Junior Tempesta](https://github.com/RobertoTempesta).
 
 ## Licença
 
